@@ -1416,7 +1416,7 @@
 		(uuid "f13ac1a5-0fae-442a-ba35-a39e741391a1")
 	)
 	(label "SDA"
-		(at 91.44 163.83 0)
+		(at 85.09 162.56 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1426,12 +1426,12 @@
 		(uuid "0ccc9265-aca1-44e5-b7bd-151587ac2459")
 	)
 	(label "SCL"
-		(at 83.82 163.83 0)
+		(at 85.09 161.29 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "0d1ad664-90ec-414e-9353-dfa997d1dc76")
 	)
