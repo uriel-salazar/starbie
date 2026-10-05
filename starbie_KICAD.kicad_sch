@@ -285,6 +285,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy 93.98 49.53) (xy 95.25 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10efad14-5491-4f02-be17-c949f41b293a")
+	)
+	(wire
+		(pts
+			(xy 95.25 49.53) (xy 95.25 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1d7a62b-9f3e-4027-9210-d4d8f5cf414c")
+	)
 	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 87.63 95.25 0)
