@@ -285,6 +285,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy 90.17 91.44) (xy 92.71 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d3d12bf-dfd3-4657-8ebb-f2efc5eb6ae2")
+	)
+	(wire
+		(pts
+			(xy 92.71 95.25) (xy 92.71 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab0fc05e-7d81-4b7b-b6c9-eca47d260723")
+	)
 	(symbol
 		(lib_id "power:GND")
 		(at 92.71 95.25 0)
