@@ -906,7 +906,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 67.31 88.9 0)
+		(at 68.58 88.9 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -917,7 +917,7 @@
 		(fields_autoplaced yes)
 		(uuid "4e177aac-734b-4e11-935c-442c881b2b13")
 		(property "Reference" "J2"
-			(at 67.945 81.28 0)
+			(at 69.215 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -927,7 +927,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_Pin"
-			(at 67.945 83.82 0)
+			(at 69.215 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -937,7 +937,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 67.31 88.9 0)
+			(at 68.58 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -948,7 +948,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 88.9 0)
+			(at 68.58 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -959,7 +959,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 67.31 88.9 0)
+			(at 68.58 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
