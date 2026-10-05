@@ -1307,16 +1307,6 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 161.29) (xy 85.09 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2328d222-e53e-4087-a40a-54ded077fcb7")
-	)
-	(wire
-		(pts
 			(xy 121.92 99.06) (xy 121.92 100.33)
 		)
 		(stroke
@@ -1436,12 +1426,12 @@
 		(uuid "0ccc9265-aca1-44e5-b7bd-151587ac2459")
 	)
 	(label "SCL"
-		(at 83.82 161.29 0)
+		(at 83.82 163.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left top)
+			(justify left)
 		)
 		(uuid "0d1ad664-90ec-414e-9353-dfa997d1dc76")
 	)
