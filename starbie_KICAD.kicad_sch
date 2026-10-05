@@ -1415,6 +1415,36 @@
 		)
 		(uuid "f13ac1a5-0fae-442a-ba35-a39e741391a1")
 	)
+	(label "DHT11 DATA"
+		(at 132.08 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "32f4bce7-8ea4-4a77-9ba8-4fbff177b1be")
+	)
+	(label "GP103"
+		(at 72.39 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9c196998-2238-4486-b6ec-5dba148ee1a3")
+	)
+	(label "GPIO2"
+		(at 72.39 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c10246c9-0df0-4d7d-aed4-ebdb613a72ea")
+	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
 		(at 83.82 160.02 90)
