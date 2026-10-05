@@ -829,6 +829,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 64.77) (xy 76.2 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07051174-18a9-4292-8fd7-3d7450930556")
+	)
+	(wire
+		(pts
 			(xy 73.66 86.36) (xy 76.2 86.36)
 		)
 		(stroke
@@ -1075,84 +1085,6 @@
 			(project "starbie_KICAD"
 				(path "/03c27c57-4d6c-49af-9616-a804eb9796b7"
 					(reference "SW1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 76.2 64.77 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6bfbb18f-6a4d-4409-b7cf-18e0c9d7527a")
-		(property "Reference" "#PWR01"
-			(at 76.2 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 76.2 69.85 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 76.2 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 76.2 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 76.2 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4a09d233-5885-4c3c-b0ea-f4700afdaa51")
-		)
-		(instances
-			(project "starbie_KICAD"
-				(path "/03c27c57-4d6c-49af-9616-a804eb9796b7"
-					(reference "#PWR01")
 					(unit 1)
 				)
 			)
