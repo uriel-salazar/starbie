@@ -1,0 +1,7 @@
+*.kicad_sch.lck
+*.kicad_pcb-bak
+*~
+*.bak
+.history/
+.vscode/
+fp-info.cache
