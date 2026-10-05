@@ -1415,6 +1415,16 @@
 		)
 		(uuid "f13ac1a5-0fae-442a-ba35-a39e741391a1")
 	)
+	(label "SDA"
+		(at 91.44 163.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0ccc9265-aca1-44e5-b7bd-151587ac2459")
+	)
 	(label "SCL"
 		(at 83.82 163.83 0)
 		(effects
@@ -1464,6 +1474,16 @@
 			(justify left bottom)
 		)
 		(uuid "9c196998-2238-4486-b6ec-5dba148ee1a3")
+	)
+	(label ""
+		(at 118.11 154.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b5a4125d-34e8-424f-ad29-a3affdb52121")
 	)
 	(label "GPIO2"
 		(at 72.39 92.71 0)
