@@ -287,6 +287,16 @@
 	)
 	(wire
 		(pts
+			(xy 90.17 121.92) (xy 91.44 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0dd85f66-6d56-4ff2-8e47-032b122615cc")
+	)
+	(wire
+		(pts
 			(xy 90.17 91.44) (xy 92.71 91.44)
 		)
 		(stroke
@@ -304,6 +314,16 @@
 			(type default)
 		)
 		(uuid "ab0fc05e-7d81-4b7b-b6c9-eca47d260723")
+	)
+	(wire
+		(pts
+			(xy 91.44 125.73) (xy 91.44 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f13ac1a5-0fae-442a-ba35-a39e741391a1")
 	)
 	(symbol
 		(lib_id "power:GND")
