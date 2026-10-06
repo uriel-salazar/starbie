@@ -2478,18 +2478,5 @@
 			)
 		)
 	)
-	(gr_poly
-		(pts
-			(xy 180 159) (xy 170.5 172.5) (xy 143 172) (xy 111.5 150) (xy 125.5 100.5) (xy 182.5 113.5) (xy 192 142)
-			(xy 192 143) (xy 179.5 160) (xy 193.5 154.5) (xy 181 155)
-		)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(fill no)
-		(layer "Edge.Cuts")
-		(uuid "a3b215ce-cfb8-4a64-a3b8-e7f88d7150ec")
-	)
 	(embedded_fonts no)
 )
