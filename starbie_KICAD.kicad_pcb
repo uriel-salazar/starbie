@@ -2478,16 +2478,5 @@
 			)
 		)
 	)
-	(gr_circle
-		(center 163 121.5)
-		(end 208 113.5)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(fill no)
-		(layer "Edge.Cuts")
-		(uuid "89abed78-8783-4d2d-a21b-0fdc9c9703bc")
-	)
 	(embedded_fonts no)
 )
