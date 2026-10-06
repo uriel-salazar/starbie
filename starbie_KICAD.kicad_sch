@@ -2612,7 +2612,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Imported Parts:Display_128x64_096_I2C"
 			(at 102.87 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -3088,7 +3088,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_NKK_GW12LJP"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 102.87 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -3556,7 +3556,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_NKK_GW12LJP"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 101.6 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -3936,7 +3936,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:PQFP-160_28x28mm_P0.65mm"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 			(at 162.052 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -4015,7 +4015,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 			(at 143.51 119.38 0)
 			(hide yes)
 			(show_name no)
