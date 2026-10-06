@@ -90,13 +90,13 @@
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "2a6bfcc3-ed52-4bf3-b004-13a4c78d3e9c")
-		(at 120.285 108.681)
+		(at 127.475 107.255)
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R1"
 			(at 3.81 -1.92 0)
 			(layer "F.SilkS")
-			(uuid "93b6dc47-d158-48a1-b77d-0864a477bdca")
+			(uuid "682f2352-3cda-4c19-b498-fc5bd5b72e1a")
 			(effects
 				(font
 					(size 1 1)
@@ -107,7 +107,7 @@
 		(property "Value" "10k"
 			(at 3.81 1.92 0)
 			(layer "F.Fab")
-			(uuid "c10c7d2d-8acd-4571-85ea-6036bc3eda18")
+			(uuid "6879a39c-3a78-4646-aa4a-4bb79048ff78")
 			(effects
 				(font
 					(size 1 1)
@@ -119,7 +119,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bc1f7f47-842d-41a2-a3fa-5ec63bb6f916")
+			(uuid "336b3494-8aaa-49bb-9a86-6047108d190d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -130,7 +130,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ec65dab9-0564-4926-9270-8ea274f1a4e2")
+			(uuid "9bf22606-b712-44c3-85e7-9f6adad7f620")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -281,12 +281,12 @@
 	(footprint "Imported Parts:XIAO-ESP32-C6-DIP"
 		(layer "F.Cu")
 		(uuid "50329175-3c75-477a-a794-c21b6f1002f4")
-		(at 144.8775 115.757)
+		(at 152.0675 114.331)
 		(property "Reference" "U2"
 			(at -0.125 -10.25 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "2579acc9-69e6-4df4-b355-ed035567ed6f")
+			(uuid "b7dc1941-5e14-4d05-bd2c-98cbc93e0565")
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -298,7 +298,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "0de0f770-be2b-4197-81a1-df34a9da145f")
+			(uuid "68874265-b783-4a45-b464-81281013a3b7")
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -311,7 +311,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b07fde1e-8f92-495c-b257-0fb2dd0b0987")
+			(uuid "d0a1159c-503b-42d5-9f84-dbdee498553d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -323,7 +323,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e7e260ca-6425-42a7-a918-6cd5d5730a60")
+			(uuid "8c4ea247-d4c0-4272-af71-49d8513fdbff")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -916,13 +916,13 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "7b53c506-7253-4151-ac0d-b18037adc72f")
-		(at 128.895 94.481)
+		(at 136.085 93.055)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW2"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "f8b30a94-fbff-4cdd-8fa4-249ecfef1e6f")
+			(uuid "b48591e0-f429-465f-8e83-2030aacf76e3")
 			(effects
 				(font
 					(size 1 1)
@@ -933,7 +933,7 @@
 		(property "Value" "SW_Push"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "fdda7812-2afb-49a8-a701-03ab6224b1e1")
+			(uuid "e58e2b11-1a83-4beb-bf89-62d0ea6a68e7")
 			(effects
 				(font
 					(size 1 1)
@@ -946,7 +946,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5414d7d3-c716-46eb-85f4-91d03cb9d931")
+			(uuid "2f3614ad-3d78-4c4e-a67b-f08312c7f8e4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -959,7 +959,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b4345a33-ccfb-4df7-9f9f-21baf835f92e")
+			(uuid "e300bee5-e269-4c99-8945-4243f2a258d4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1208,13 +1208,13 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "89fdbed4-8a46-4941-a58b-f95d0a2cb918")
-		(at 128.895 79.391)
+		(at 136.085 77.965)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW1"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "4cc9a1e3-f1c8-4141-a74d-33dddce1177b")
+			(uuid "74798b39-c8b2-44c7-b852-886c05e3b0e1")
 			(effects
 				(font
 					(size 1 1)
@@ -1225,7 +1225,7 @@
 		(property "Value" "SW_Push"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "c218a86c-c865-4a5f-be37-8e316d68b6a1")
+			(uuid "0f2a3db6-1182-406a-8ca1-5daccdd62ea7")
 			(effects
 				(font
 					(size 1 1)
@@ -1238,7 +1238,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0b514bde-142b-4e4f-86b7-de9f42fc8742")
+			(uuid "542ace30-019c-4bfd-9ec7-591ab5e14dc5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1251,7 +1251,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ff3fe32f-6950-471b-975c-005a76a1bd32")
+			(uuid "09284e0e-4f7b-4561-b355-6d5fca99b084")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1500,13 +1500,13 @@
 	(footprint "Imported Parts:Display_128x64_096_I2C"
 		(layer "F.Cu")
 		(uuid "8e229caa-590f-4ea0-9afc-bd4217cf96ca")
-		(at 148.176 79.251)
+		(at 155.366 77.825)
 		(descr "Display 0.96\" OLED 128x64 pixel with SSD1306 controller and I2C interface")
 		(tags "display OLED SSD1306 128x64")
 		(property "Reference" "J1"
 			(at -0.2286 10.8712 0)
 			(layer "F.SilkS")
-			(uuid "3ea042aa-64e1-428b-8b46-9e617e02b77e")
+			(uuid "e1388f9b-7817-442b-aaca-f8d29b26121d")
 			(effects
 				(font
 					(size 1 1)
@@ -1517,7 +1517,7 @@
 		(property "Value" "Conn_01x04_Pin"
 			(at -7.874 4.699 0)
 			(layer "F.Fab")
-			(uuid "2a4ac82e-f1a1-470e-89bb-4330b3d953f6")
+			(uuid "25804d76-fe9a-434a-911a-c049bbffe609")
 			(effects
 				(font
 					(size 1 1)
@@ -1529,7 +1529,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8a1b38ae-b0aa-4a38-9537-8794a1741eae")
+			(uuid "ceacf3bf-6f69-4c21-9aac-1a1179ffd6e2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1540,7 +1540,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "88fd2d43-b2fc-42c8-b8cf-618447673c86")
+			(uuid "a0dd87aa-a136-4245-a292-d4834dc3724f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1890,13 +1890,13 @@
 	(footprint "Sensor:Aosong_DHT11_5.5x12.0_P2.54mm"
 		(layer "F.Cu")
 		(uuid "d4f139fd-b616-4c0e-b4fe-5428c8b4477a")
-		(at 161.21 108.746)
+		(at 168.4 107.32)
 		(descr "Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf")
 		(tags "Temperature and humidity module")
 		(property "Reference" "U1"
 			(at -1 -3.5 0)
 			(layer "F.SilkS")
-			(uuid "5356e968-1e50-42de-a810-6610418e2c40")
+			(uuid "03a89cbb-02d9-40af-8287-6828f138d64a")
 			(effects
 				(font
 					(size 1 1)
@@ -1907,7 +1907,7 @@
 		(property "Value" "DHT11"
 			(at 0 11.3 0)
 			(layer "F.Fab")
-			(uuid "8f224e08-856b-444e-b923-35d68843f791")
+			(uuid "4c346053-b27f-423a-bf09-d249820bf49b")
 			(effects
 				(font
 					(size 1 1)
@@ -1920,7 +1920,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "05c71981-fcd7-48af-8793-648b97806af6")
+			(uuid "895a50cf-c05f-4c47-afc1-f60aad2c5fa1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1933,7 +1933,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "80873465-1367-426b-8588-9fc6bc3fc0f7")
+			(uuid "be130c65-61c7-4909-bcb9-b47753571261")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2174,13 +2174,13 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "ef08b736-689d-4067-ae9b-7c5da966afb9")
-		(at 164.745 79.221)
+		(at 171.935 77.795)
 		(descr "Through hole straight pin header, 1x08, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x08 2.54mm single row")
 		(property "Reference" "J2"
 			(at 0 -2.38 0)
 			(layer "F.SilkS")
-			(uuid "a40beeb3-1316-42fd-8cea-7577b6cbec15")
+			(uuid "44ec9530-a0ad-4b55-9696-dc395caca9c8")
 			(effects
 				(font
 					(size 1 1)
@@ -2191,7 +2191,7 @@
 		(property "Value" "Conn_01x08_Pin"
 			(at 0 20.16 0)
 			(layer "F.Fab")
-			(uuid "9ec06cd2-3497-4921-b889-d859b74271ba")
+			(uuid "3a20614e-902b-4094-b28f-ecd3c80e84b2")
 			(effects
 				(font
 					(size 1 1)
@@ -2203,7 +2203,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "84b76486-6d01-4cba-9098-f265467f131e")
+			(uuid "fe76bbcf-36be-41d8-a8a2-4e921c4db72a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2214,7 +2214,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "357f062f-bcca-4cd8-be22-0d417daaad4a")
+			(uuid "69ed02ff-b489-4919-b962-98cb01dca7f4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2477,17 +2477,6 @@
 				(xyz 0 0 0)
 			)
 		)
-	)
-	(gr_circle
-		(center 145 98)
-		(end 171 131)
-		(stroke
-			(width 0.2)
-			(type default)
-		)
-		(fill no)
-		(layer "F.Cu")
-		(uuid "d1e9ce1b-3c20-41ad-8d09-da53c73e8cb3")
 	)
 	(embedded_fonts no)
 )
