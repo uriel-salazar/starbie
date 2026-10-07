@@ -90,7 +90,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "2a6bfcc3-ed52-4bf3-b004-13a4c78d3e9c")
-		(at 127.35 106.71)
+		(at 111.89 118.79)
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R1"
@@ -281,7 +281,7 @@
 	(footprint "Imported Parts:XIAO-ESP32-C6-DIP"
 		(layer "F.Cu")
 		(uuid "50329175-3c75-477a-a794-c21b6f1002f4")
-		(at 151.9425 113.786)
+		(at 184 93)
 		(property "Reference" "U2"
 			(at -0.125 -10.25 0)
 			(unlocked yes)
@@ -916,7 +916,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "7b53c506-7253-4151-ac0d-b18037adc72f")
-		(at 135.96 92.51)
+		(at 120.5 104.59)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW2"
@@ -1208,7 +1208,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "89fdbed4-8a46-4941-a58b-f95d0a2cb918")
-		(at 135.96 77.42)
+		(at 120.5 89.5)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW1"
