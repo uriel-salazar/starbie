@@ -1500,7 +1500,7 @@
 	(footprint "Imported Parts:Display_128x64_096_I2C"
 		(layer "F.Cu")
 		(uuid "8e229caa-590f-4ea0-9afc-bd4217cf96ca")
-		(at 155.241 77.28)
+		(at 155.241 78.992)
 		(descr "Display 0.96\" OLED 128x64 pixel with SSD1306 controller and I2C interface")
 		(tags "display OLED SSD1306 128x64")
 		(property "Reference" "J1"
@@ -2174,7 +2174,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "ef08b736-689d-4067-ae9b-7c5da966afb9")
-		(at 171.81 77.25)
+		(at 171.81 78.962)
 		(descr "Through hole straight pin header, 1x08, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x08 2.54mm single row")
 		(property "Reference" "J2"
