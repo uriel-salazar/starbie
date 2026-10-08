@@ -90,7 +90,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "2a6bfcc3-ed52-4bf3-b004-13a4c78d3e9c")
-		(at 128.89 104.2)
+		(at 89.93 94.71)
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R1"
@@ -916,7 +916,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "7b53c506-7253-4151-ac0d-b18037adc72f")
-		(at 137.5 90)
+		(at 98.54 80.51)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW2"
@@ -1208,7 +1208,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "89fdbed4-8a46-4941-a58b-f95d0a2cb918")
-		(at 140.5 75.41)
+		(at 101.54 65.92)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW1"
@@ -1500,7 +1500,7 @@
 	(footprint "Imported Parts:Display_128x64_096_I2C"
 		(layer "F.Cu")
 		(uuid "8e229caa-590f-4ea0-9afc-bd4217cf96ca")
-		(at 165 67.402)
+		(at 107.5 117.992)
 		(descr "Display 0.96\" OLED 128x64 pixel with SSD1306 controller and I2C interface")
 		(tags "display OLED SSD1306 128x64")
 		(property "Reference" "J1"
@@ -2174,7 +2174,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "ef08b736-689d-4067-ae9b-7c5da966afb9")
-		(at 165 95.37)
+		(at 212.5 122.42)
 		(descr "Through hole straight pin header, 1x08, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x08 2.54mm single row")
 		(property "Reference" "J2"
