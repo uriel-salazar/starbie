@@ -281,7 +281,7 @@
 	(footprint "Imported Parts:XIAO-ESP32-C6-DIP"
 		(layer "F.Cu")
 		(uuid "50329175-3c75-477a-a794-c21b6f1002f4")
-		(at 192.5 83.5 90)
+		(at 190.5 83.5 90)
 		(property "Reference" "U2"
 			(at -0.125 -10.25 90)
 			(unlocked yes)
@@ -1500,7 +1500,7 @@
 	(footprint "Imported Parts:Display_128x64_096_I2C"
 		(layer "F.Cu")
 		(uuid "8e229caa-590f-4ea0-9afc-bd4217cf96ca")
-		(at 166.824 71.865)
+		(at 164.5 71.865)
 		(descr "Display 0.96\" OLED 128x64 pixel with SSD1306 controller and I2C interface")
 		(tags "display OLED SSD1306 128x64")
 		(property "Reference" "J1"
