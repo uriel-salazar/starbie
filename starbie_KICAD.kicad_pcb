@@ -916,13 +916,13 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "7b53c506-7253-4151-ac0d-b18037adc72f")
-		(at 152.54 94.92)
+		(at 98.54 80.51)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW2"
 			(at -2.54 -2.794 0)
 			(layer "F.SilkS")
-			(uuid "afe202f0-0da4-45a3-a5d5-34aec355f100")
+			(uuid "c78a4363-abc5-43ce-90a2-5220ab630abd")
 			(effects
 				(font
 					(size 1 1)
@@ -933,7 +933,7 @@
 		(property "Value" "SW_Push"
 			(at -2.54 12.954 0)
 			(layer "F.Fab")
-			(uuid "3a8efd3d-e045-4e51-a98d-33f500971f40")
+			(uuid "36ce7d23-4ca6-42b2-8aca-d9c03bb12aa6")
 			(effects
 				(font
 					(size 1 1)
@@ -946,7 +946,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ba403165-14a6-4ca1-902e-bb15891526bf")
+			(uuid "8402482a-e29e-45ee-a44b-6bf97e2fe805")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -959,7 +959,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b2e4745c-e419-4b60-bf57-24ad4760512d")
+			(uuid "a8a78f9f-95fd-4e62-a044-06ebf24e07a4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2174,7 +2174,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "ef08b736-689d-4067-ae9b-7c5da966afb9")
-		(at 212.5 122.42)
+		(at 171.5 94.88)
 		(descr "Through hole straight pin header, 1x08, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x08 2.54mm single row")
 		(property "Reference" "J2"
