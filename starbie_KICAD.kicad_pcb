@@ -90,7 +90,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "2a6bfcc3-ed52-4bf3-b004-13a4c78d3e9c")
-		(at 239.204 62.873)
+		(at 89.5 165.88)
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R1"
@@ -281,7 +281,7 @@
 	(footprint "Imported Parts:XIAO-ESP32-C6-DIP"
 		(layer "F.Cu")
 		(uuid "50329175-3c75-477a-a794-c21b6f1002f4")
-		(at 269.204 45.493 90)
+		(at 119.5 148.5 90)
 		(property "Reference" "U2"
 			(at -0.125 -10.25 90)
 			(unlocked yes)
@@ -916,7 +916,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "7b53c506-7253-4151-ac0d-b18037adc72f")
-		(at 245.674 71.833)
+		(at 95.97 174.84)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW2"
@@ -1208,7 +1208,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "89fdbed4-8a46-4941-a58b-f95d0a2cb918")
-		(at 205.54 41.92)
+		(at 68.54 144.42)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW1"
@@ -1500,7 +1500,7 @@
 	(footprint "Imported Parts:Display_128x64_096_I2C"
 		(layer "F.Cu")
 		(uuid "8e229caa-590f-4ea0-9afc-bd4217cf96ca")
-		(at 243.324 39.865)
+		(at 93.62 142.872)
 		(descr "Display 0.96\" OLED 128x64 pixel with SSD1306 controller and I2C interface")
 		(tags "display OLED SSD1306 128x64")
 		(property "Reference" "J1"
@@ -1890,7 +1890,7 @@
 	(footprint "Sensor:Aosong_DHT11_5.5x12.0_P2.54mm"
 		(layer "F.Cu")
 		(uuid "d4f139fd-b616-4c0e-b4fe-5428c8b4477a")
-		(at 253.04 28.5 -90)
+		(at 103.336 131.507 -90)
 		(descr "Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf")
 		(tags "Temperature and humidity module")
 		(property "Reference" "U1"
@@ -2174,7 +2174,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "ef08b736-689d-4067-ae9b-7c5da966afb9")
-		(at 268.324 60.293)
+		(at 118.62 163.3)
 		(descr "Through hole straight pin header, 1x08, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x08 2.54mm single row")
 		(property "Reference" "J2"
@@ -5095,8 +5095,8 @@
 		(uuid "650d7b66-c3df-4ad9-a29a-d8847ab2187b")
 	)
 	(segment
-		(start 265.5365 28.503395)
-		(end 276.384105 39.351)
+		(start 115.8325 131.510395)
+		(end 126.680105 142.358)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "+3.3V")
@@ -5111,8 +5111,8 @@
 		(uuid "a5421c97-dd5d-4e09-8aa9-baa517a8ec19")
 	)
 	(segment
-		(start 268.324 60.293)
-		(end 268.324 60.373)
+		(start 118.62 163.3)
+		(end 118.62 163.38)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "+3.3V")
@@ -5127,8 +5127,8 @@
 		(uuid "c32c3953-a56e-4d24-943d-24fafa98aba8")
 	)
 	(segment
-		(start 268.324 60.293)
-		(end 268.324 47.411105)
+		(start 118.62 163.3)
+		(end 118.62 150.418105)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "+3.3V")
@@ -5143,24 +5143,24 @@
 		(uuid "da896100-1bb9-4c76-b613-02377605047e")
 	)
 	(segment
-		(start 268.324 47.411105)
-		(end 276.384105 39.351)
+		(start 118.62 150.418105)
+		(end 126.680105 142.358)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "+3.3V")
 		(uuid "e0d990ee-13a4-4717-83e5-b52f554c75bd")
 	)
 	(segment
-		(start 265.5365 27.9705)
-		(end 265.5365 28.503395)
+		(start 115.8325 130.9775)
+		(end 115.8325 131.510395)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "+3.3V")
 		(uuid "edd5b1c0-64f6-4a7b-9e8c-420aaf56c036")
 	)
 	(segment
-		(start 268.324 62.833)
-		(end 275.762 55.395)
+		(start 118.62 165.84)
+		(end 126.058 158.402)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "GND")
@@ -5175,8 +5175,8 @@
 		(uuid "0d265595-7810-4f1f-8e18-0152d20ff9ee")
 	)
 	(segment
-		(start 269.023714 26.9205)
-		(end 279.575 37.471786)
+		(start 119.319714 129.9275)
+		(end 129.871 140.478786)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "GND")
@@ -5199,24 +5199,24 @@
 		(uuid "33bd11c9-b024-49c4-bc9f-f5229f6a387d")
 	)
 	(segment
-		(start 212.434 48.886402)
-		(end 237.920598 74.373)
+		(start 62.73 151.893402)
+		(end 88.216598 177.38)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "GND")
 		(uuid "3e132c81-e157-4770-bf04-8903fad914e4")
 	)
 	(segment
-		(start 239.324 74.373)
-		(end 256.784 74.373)
+		(start 89.62 177.38)
+		(end 107.08 177.38)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "GND")
 		(uuid "6a72be82-e8d8-496a-b72a-79e128909ba1")
 	)
 	(segment
-		(start 257.9165 27.9705)
-		(end 258.9665 26.9205)
+		(start 108.2125 130.9775)
+		(end 109.2625 129.9275)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "GND")
@@ -5239,16 +5239,16 @@
 		(uuid "7039b377-de73-4083-a10f-facc90c67868")
 	)
 	(segment
-		(start 256.784 74.373)
-		(end 268.324 62.833)
+		(start 107.08 177.38)
+		(end 118.62 165.84)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "GND")
 		(uuid "8dea4912-d4ee-4c60-9035-c3dcfc4d54f6")
 	)
 	(segment
-		(start 258.9665 26.9205)
-		(end 269.023714 26.9205)
+		(start 109.2625 129.9275)
+		(end 119.319714 129.9275)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "GND")
@@ -5263,8 +5263,8 @@
 		(uuid "98f81bcf-ce10-4e68-8488-e2064a7e9553")
 	)
 	(segment
-		(start 237.920598 74.373)
-		(end 239.324 74.373)
+		(start 88.216598 177.38)
+		(end 89.62 177.38)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "GND")
