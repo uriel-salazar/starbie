@@ -1208,13 +1208,13 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "89fdbed4-8a46-4941-a58b-f95d0a2cb918")
-		(at 220.04 44.92)
+		(at 225.12 43.92)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW1"
 			(at 70.284 -30.921 0)
 			(layer "F.SilkS")
-			(uuid "cc3e5a5e-7aa5-47f0-9721-bad6f319c706")
+			(uuid "e103d1d0-6761-4e0e-bea7-54ea19f0e998")
 			(effects
 				(font
 					(size 1 1)
@@ -1225,7 +1225,7 @@
 		(property "Value" "SW_Push"
 			(at 70.284 -15.173 0)
 			(layer "F.Fab")
-			(uuid "cad1cd8f-1c58-425d-b18b-233363e65bda")
+			(uuid "fec09405-f3a8-4b36-ad04-c11b38a63cc5")
 			(effects
 				(font
 					(size 1 1)
@@ -1238,7 +1238,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "38f0903b-6416-4d7d-aee5-79c031c8557c")
+			(uuid "bb9f352f-771c-43fc-874f-8216f3f16b53")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1251,7 +1251,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "aa862ae6-3549-40df-a095-3662e727058e")
+			(uuid "ccc1bb21-099e-4577-a519-9e56a580414a")
 			(effects
 				(font
 					(size 1.27 1.27)
