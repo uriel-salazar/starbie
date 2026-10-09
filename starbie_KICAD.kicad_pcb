@@ -281,7 +281,7 @@
 	(footprint "Imported Parts:XIAO-ESP32-C6-DIP"
 		(layer "F.Cu")
 		(uuid "50329175-3c75-477a-a794-c21b6f1002f4")
-		(at 223.38 58.5 90)
+		(at 197.5 70.8185 90)
 		(property "Reference" "U2"
 			(at -0.125 -10.25 90)
 			(unlocked yes)
