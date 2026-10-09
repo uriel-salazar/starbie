@@ -90,7 +90,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "2a6bfcc3-ed52-4bf3-b004-13a4c78d3e9c")
-		(at 89.93 94.71)
+		(at 166.69 87)
 		(descr "Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R1"
@@ -1890,7 +1890,7 @@
 	(footprint "Sensor:Aosong_DHT11_5.5x12.0_P2.54mm"
 		(layer "F.Cu")
 		(uuid "d4f139fd-b616-4c0e-b4fe-5428c8b4477a")
-		(at 183.88 53 90)
+		(at 187.92 55.5 90)
 		(descr "Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf")
 		(tags "Temperature and humidity module")
 		(property "Reference" "U1"
