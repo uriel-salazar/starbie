@@ -1500,7 +1500,7 @@
 	(footprint "Imported Parts:Display_128x64_096_I2C"
 		(layer "F.Cu")
 		(uuid "8e229caa-590f-4ea0-9afc-bd4217cf96ca")
-		(at 141 121.992)
+		(at 170.5 67.992)
 		(descr "Display 0.96\" OLED 128x64 pixel with SSD1306 controller and I2C interface")
 		(tags "display OLED SSD1306 128x64")
 		(property "Reference" "J1"
@@ -1890,13 +1890,13 @@
 	(footprint "Sensor:Aosong_DHT11_5.5x12.0_P2.54mm"
 		(layer "F.Cu")
 		(uuid "d4f139fd-b616-4c0e-b4fe-5428c8b4477a")
-		(at 174.54 56.5 -90)
+		(at 175.2125 55.0975 -90)
 		(descr "Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf")
 		(tags "Temperature and humidity module")
 		(property "Reference" "U1"
 			(at -1 -3.5 90)
 			(layer "F.SilkS")
-			(uuid "15bc8b86-43ff-41b5-9e78-2a77a19c2c85")
+			(uuid "7deb7c48-2533-4b29-ac92-77913da226f7")
 			(effects
 				(font
 					(size 1 1)
@@ -1907,7 +1907,7 @@
 		(property "Value" "DHT11"
 			(at 0 11.3 90)
 			(layer "F.Fab")
-			(uuid "f4a4a828-00ff-4516-810c-629b666d15d8")
+			(uuid "3897c34c-21a6-4f25-b56b-36a6c2ca0b89")
 			(effects
 				(font
 					(size 1 1)
@@ -1920,7 +1920,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f58395c4-6bff-4a7c-a2c7-19369d7aecdd")
+			(uuid "5dd56b8a-b9ae-4714-b441-2fe0d0e01b54")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1933,7 +1933,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f499c0e9-e57a-470a-a56f-5353f3623df1")
+			(uuid "366ff020-bd04-4e3b-b17e-6b68888796cb")
 			(effects
 				(font
 					(size 1.27 1.27)
