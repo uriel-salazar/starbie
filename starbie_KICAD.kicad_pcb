@@ -1890,13 +1890,13 @@
 	(footprint "Sensor:Aosong_DHT11_5.5x12.0_P2.54mm"
 		(layer "F.Cu")
 		(uuid "d4f139fd-b616-4c0e-b4fe-5428c8b4477a")
-		(at 171.5 26.46)
+		(at 187.0975 51.7875)
 		(descr "Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf")
 		(tags "Temperature and humidity module")
 		(property "Reference" "U1"
 			(at -1 -3.5 0)
 			(layer "F.SilkS")
-			(uuid "fef4490f-0d8f-4b05-a141-cb536cc48a01")
+			(uuid "34768120-8ee4-4a56-a3be-05083bc7920d")
 			(effects
 				(font
 					(size 1 1)
@@ -1907,7 +1907,7 @@
 		(property "Value" "DHT11"
 			(at 0 11.3 0)
 			(layer "F.Fab")
-			(uuid "aa31547f-0856-47a7-bc65-b7364a57f743")
+			(uuid "6dbfce8d-bf72-45dd-8d82-057eb825c0b1")
 			(effects
 				(font
 					(size 1 1)
@@ -1920,7 +1920,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3b724fe7-14c7-43b5-ab10-47d8d7e8ffbc")
+			(uuid "195b7c1e-b098-405f-839c-be8b268897fb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1933,7 +1933,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f39698a7-8aa9-4d20-b58b-1c4b578aad22")
+			(uuid "b3b85476-bebc-4f7f-b67b-825755032e08")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2104,7 +2104,7 @@
 			(uuid "cc6314e4-f012-47b0-947c-e40da6c749a9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.5 11.54 0)
+			(at 0 3.81 0)
 			(layer "F.Fab")
 			(uuid "c0640a9b-fc22-4efc-9422-74d6ef3b373d")
 			(effects
