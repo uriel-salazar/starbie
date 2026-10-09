@@ -1208,7 +1208,7 @@
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
 		(uuid "89fdbed4-8a46-4941-a58b-f95d0a2cb918")
-		(at 102.85 48.96)
+		(at 145 70.5)
 		(descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
 		(tags "Cherry MX keyswitch 1.00u PCB")
 		(property "Reference" "SW1"
@@ -1500,7 +1500,7 @@
 	(footprint "Imported Parts:Display_128x64_096_I2C"
 		(layer "F.Cu")
 		(uuid "8e229caa-590f-4ea0-9afc-bd4217cf96ca")
-		(at 141 121.992)
+		(at 171 63.492)
 		(descr "Display 0.96\" OLED 128x64 pixel with SSD1306 controller and I2C interface")
 		(tags "display OLED SSD1306 128x64")
 		(property "Reference" "J1"
