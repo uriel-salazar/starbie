@@ -281,7 +281,7 @@
 	(footprint "Imported Parts:XIAO-ESP32-C6-DIP"
 		(layer "F.Cu")
 		(uuid "50329175-3c75-477a-a794-c21b6f1002f4")
-		(at 198 70.8185 90)
+		(at 197.5 75.3185 90)
 		(property "Reference" "U2"
 			(at -0.125 -10.25 90)
 			(unlocked yes)
@@ -2104,7 +2104,7 @@
 			(uuid "cc6314e4-f012-47b0-947c-e40da6c749a9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 3.81 0)
+			(at 1.5 11.54 0)
 			(layer "F.Fab")
 			(uuid "c0640a9b-fc22-4efc-9422-74d6ef3b373d")
 			(effects
@@ -2174,7 +2174,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "ef08b736-689d-4067-ae9b-7c5da966afb9")
-		(at 196.5 122.11)
+		(at 192.5 88.92)
 		(descr "Through hole straight pin header, 1x08, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x08 2.54mm single row")
 		(property "Reference" "J2"
