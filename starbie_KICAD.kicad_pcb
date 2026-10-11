@@ -1890,7 +1890,7 @@
 	(footprint "images:cat_footprint"
 		(layer "F.Cu")
 		(uuid "ae46b5cf-e02b-46c0-832c-a9fe8154e8b8")
-		(at 98 115)
+		(at 70 70)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "F.SilkS")
