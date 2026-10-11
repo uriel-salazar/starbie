@@ -2042,7 +2042,7 @@
 		(uuid "cba931ef-fa52-4bb9-b1a6-d8f27d8eb580")
 		(at 150 62.665482 90)
 		(property "Reference" "G***"
-			(at 0 0 90)
+			(at 0 0 110)
 			(layer "F.SilkS")
 			(uuid "69233c80-5d36-4723-b75b-700f7b54d259")
 			(effects
