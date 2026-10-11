@@ -2324,7 +2324,7 @@
 	(footprint "images:b"
 		(layer "F.Cu")
 		(uuid "e4cf262f-f43e-46a5-91aa-d91e263bfa14")
-		(at 206 58 30)
+		(at 205.5 57.5 30)
 		(property "Reference" ""
 			(at 0 0 30)
 			(layer "F.SilkS")
