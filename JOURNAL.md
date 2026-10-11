@@ -10,7 +10,20 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 1h | 1 |
+| Week 1 | Tier 1 | 2h | 1 |
 
-_No entries logged yet._
+## Contents
 
+1. [2026-10-08 – ![Screenshot_20261008_151837](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/PBCF2DCDhpnB0uFmkGCXVaItLcCiPjLT/cda31ebdc17e7e4b56f224897284e1d6bb30075779b1dbd0ce5923a469adf98e.png)](#2026-10-08-screenshot20261008151837httpshalflifehackclub-ass)
+
+## Design
+
+### 2026-10-08 – ![Screenshot_20261008_151837](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/PBCF2DCDhpnB0uFmkGCXVaItLcCiPjLT/cda31ebdc17e7e4b56f224897284e1d6bb30075779b1dbd0ce5923a469adf98e.png)
+
+**2h**
+
+![Screenshot_20261008_151837](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/PBCF2DCDhpnB0uFmkGCXVaItLcCiPjLT/cda31ebdc17e7e4b56f224897284e1d6bb30075779b1dbd0ce5923a469adf98e.png)
+
+First, I began with this project by learning how to use Kicad, I set up the basic components, and then  I gotta say I struggled a bit to add the .pretty files but finally it worked!!. I was thinking about making a different outer layer form for my starbie project. I think I'm going to use a cat silhouette to make it look more like me!.
+
+![Screenshot_20261008_151755](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/PBCF2DCDhpnB0uFmkGCXVaItLcCiPjLT/5063f3511fddf226a64e97be59dc17bb868c02f2f83689dc21bcb7b82f858699.png)
