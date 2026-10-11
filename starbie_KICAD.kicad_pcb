@@ -282,7 +282,7 @@
 		(layer "F.Cu")
 		(uuid "3932bbaa-0b9e-4ed5-a8a3-4f421c79f356")
 		(at 203.5 97.5)
-		(property "Reference" "G***"
+		(property "Reference" ""
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "9f952568-0287-4306-833d-3c6ad61d0f19")
