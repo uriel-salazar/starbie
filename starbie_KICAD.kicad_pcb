@@ -2040,9 +2040,9 @@
 	(footprint "images:ke"
 		(layer "F.Cu")
 		(uuid "cba931ef-fa52-4bb9-b1a6-d8f27d8eb580")
-		(at 171.5 94 100)
+		(at 150 61 90)
 		(property "Reference" "G***"
-			(at 0 0 100)
+			(at 0 0 90)
 			(layer "F.SilkS")
 			(uuid "69233c80-5d36-4723-b75b-700f7b54d259")
 			(effects
@@ -2053,7 +2053,7 @@
 			)
 		)
 		(property "Value" "LOGO"
-			(at 0.75 0 100)
+			(at 0.75 0 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "33ec417b-8426-41c4-8397-54bed9b1e3d0")
@@ -2065,7 +2065,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 100)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d5f44ddb-7bb1-492b-932a-56ca428ea5ed")
@@ -2076,7 +2076,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 100)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ec14a1cc-0db1-4c60-9edb-4c036fbd3fbf")
