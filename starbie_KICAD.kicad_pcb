@@ -1358,9 +1358,9 @@
 	(footprint "images:baty"
 		(layer "F.Cu")
 		(uuid "81ecf2ed-d0d3-435c-a56f-3b6ffe8235ab")
-		(at 142 54.5)
+		(at 101.594368 46.196165 -90)
 		(property "Reference" "G***"
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.SilkS")
 			(uuid "eb9efce7-334b-423b-8f76-0e4fbd118f63")
 			(effects
@@ -1371,7 +1371,7 @@
 			)
 		)
 		(property "Value" "LOGO"
-			(at 0.75 0 0)
+			(at 0.75 0 90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "c8833fe8-2827-48d4-98e7-690b59511b00")
@@ -1383,7 +1383,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "96d43f6f-8eb8-4180-b1b4-366d36f257cd")
@@ -1394,7 +1394,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 0)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a8bf6632-19bd-4b22-914b-fe0fd873e305")
@@ -1408,18 +1408,6 @@
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
 			(pts
-				(xy 0.674878 -7.761111) (xy 0.644202 -7.730435) (xy 0.613526 -7.761111) (xy 0.644202 -7.791788)
-			)
-			(stroke
-				(width 0)
-				(type solid)
-			)
-			(fill yes)
-			(layer "F.Cu")
-			(uuid "4f367cc4-4df4-4e64-9380-3215a6127b2f")
-		)
-		(fp_poly
-			(pts
 				(xy 1.656521 -6.411353) (xy 1.625845 -6.380676) (xy 1.595168 -6.411353) (xy 1.625845 -6.442029)
 			)
 			(stroke
@@ -1429,6 +1417,18 @@
 			(fill yes)
 			(layer "F.Cu")
 			(uuid "0c0a194e-ebbf-40a9-890d-e6c61747458f")
+		)
+		(fp_poly
+			(pts
+				(xy 0.674878 -7.761111) (xy 0.644202 -7.730435) (xy 0.613526 -7.761111) (xy 0.644202 -7.791788)
+			)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+			(fill yes)
+			(layer "F.Cu")
+			(uuid "4f367cc4-4df4-4e64-9380-3215a6127b2f")
 		)
 		(fp_poly
 			(pts
