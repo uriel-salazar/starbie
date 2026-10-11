@@ -3796,7 +3796,7 @@
 		(layer "B.Cu")
 		(uuid "39efc833-e59d-418a-937a-2aabe7694b68")
 		(pts
-			(xy 162.5 92.5) (xy 178.5 100.5)
+			(xy 162.5 92.5) (xy 177 94)
 		)
 		(height 9.5)
 		(orientation 0)
@@ -3817,8 +3817,8 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "16"
-			(at 170.5 100.2 0)
+		(gr_text "14.5"
+			(at 169.75 100.2 0)
 			(layer "B.Cu")
 			(uuid "39efc833-e59d-418a-937a-2aabe7694b68")
 			(effects
