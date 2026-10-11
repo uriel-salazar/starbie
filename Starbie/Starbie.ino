@@ -226,6 +226,7 @@ int keepInRange(int value, int smallest, int largest) {
   return constrain(value, smallest, largest);
 }
 
+// this is how states are change depending on what the  user chooses
 void changePet(int joyChange, int energyChange, int fullnessChange) {
   pet.joy = keepInRange(pet.joy + joyChange, 0, 100);
   pet.energy = keepInRange(pet.energy + energyChange, 0, 100);
@@ -457,6 +458,18 @@ void drawHeart(int x, int y) {
   display.drawPixel(x, y + 6, SSD1306_WHITE);
 }
 
+void drawSparkle(int x, int y) {
+  display.drawPixel(x, y - 2, SSD1306_WHITE);
+  display.drawPixel(x - 1, y - 1, SSD1306_WHITE);
+  display.drawPixel(x + 1, y - 1, SSD1306_WHITE);
+  display.drawPixel(x - 2, y, SSD1306_WHITE);
+  display.drawPixel(x, y, SSD1306_WHITE);
+  display.drawPixel(x + 2, y, SSD1306_WHITE);
+  display.drawPixel(x - 1, y + 1, SSD1306_WHITE);
+  display.drawPixel(x + 1, y + 1, SSD1306_WHITE);
+  display.drawPixel(x, y + 2, SSD1306_WHITE);
+}
+
 void drawHearts(uint32_t now, int petX, int petY) {
   if (now >= heartAnimationEndsAt) {
     return;
@@ -602,13 +615,15 @@ void drawCurrentView() {
   display.display();
 }
 
+// init the hardware
+
 void setup() {
   Serial.begin(115200);
   Wire.begin(I2C_SDA_PIN, I2C_SCL_PIN);
   setUpButton(buttonOne);
   setUpButton(buttonTwo);
   loadPet();
-
+  // if the display fais to initialize we print the error to our console! 
   if (!display.begin(SSD1306_SWITCHCAPVCC, OLED_ADDRESS)) {
     Serial.println("OLED not found. Check power, GND, SDA, SCL, and address.");
     while (true) {
