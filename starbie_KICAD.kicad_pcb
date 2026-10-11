@@ -2040,7 +2040,7 @@
 	(footprint "images:ke"
 		(layer "F.Cu")
 		(uuid "cba931ef-fa52-4bb9-b1a6-d8f27d8eb580")
-		(at 150 61 90)
+		(at 150 62.665482 90)
 		(property "Reference" "G***"
 			(at 0 0 90)
 			(layer "F.SilkS")
